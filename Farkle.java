@@ -543,7 +543,7 @@ public class Farkle {
 
                             if ( jaein == 'j' ) {
 
-                                
+                                wz++;
                                 break;
 
                             } else if (jaein == 'n' ) {
