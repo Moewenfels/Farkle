@@ -11,9 +11,8 @@
 
 import java.util.* ;
 
-public class Farkle {
-    
-    
+//public class Farkle {
+      
 
 // Globale Variabeln / Arrays
     
@@ -587,7 +586,6 @@ public class Farkle {
                 
                 }
             } 
-            
             
             
             
